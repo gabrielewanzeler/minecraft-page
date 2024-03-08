@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    color: white;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+    font-size: 21px;
+    margin-top: 10px;
+    font-family: "Minecraftia", sans-serif; 
+}
+.list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration:none;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+}
+
+.list:hover{
+    background-color: rgb(54, 59, 53);
+    border-radius: 20px;
+    padding-right: 6px;
+    padding-left: 6px;
+}
+
+.heading-border{
+    display: flex;
+    height: 11px;
+    width: 30%;
+    right: 300px;
+    left: 300px;
+    margin-bottom: 90px;
+    position: relative;
+
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: rgb(29, 29, 29);
+}

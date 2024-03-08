@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{
+    margin: 0 px;
+    padding: 0 px;
+    font-family: 'Montserrat 100', sans-serif;
+                                                
+}
+
+
+body{
+    background-position: center;
+    background-size: cover;
+    background: linear-gradient(rgb(20, 29, 24) 5%, rgb(40, 56, 46) 25%, #5b5b5b 60%, #222b24 85%);
+
+}
